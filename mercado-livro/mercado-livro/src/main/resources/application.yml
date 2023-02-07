@@ -1,8 +1,8 @@
-sprint:
+spring:
   jpa:
     hibernate:
       ddl-auto: update
   datasource:
     url: jdbc:mysql://localhost:3306/mercadolivro?createDatabaseIfNotExist=true
-    username: ****
-    password: ****
+    username: root
+    password: root
